@@ -21,7 +21,7 @@ intro:
 download:
     rename: "Season 1"
     header: "Listen to OFF BIKE Season 1"
-    text: '<p><p><ul><li>Sir Paul Smith - The Curious Designer behind a hugely successful clothing brand</li><ul></p><p>You can listen to OFF BIKE wherever you get your podcasts.</p><a href="https://open.spotify.com/show/4At3ZxqrdgYA6mG3azk5K4"><img border="0" src="https://developer.spotify.com/assets/branding-guidelines/icon3@2x.png" width="80" height="80"></a>'
+    text: '<ul><li>Sir Paul Smith - The Curious Designer behind the hugely successful clothing brand</li></ul><p>You can listen to OFF BIKE wherever you get your podcasts.</p><a href="https://open.spotify.com/show/4At3ZxqrdgYA6mG3azk5K4"><img border="0" src="https://developer.spotify.com/assets/branding-guidelines/icon3@2x.png" width="80" height="80"></a>'
 
 about:
     header: "About OFF BIKE"
