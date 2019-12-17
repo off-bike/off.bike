@@ -1,0 +1,9 @@
+baseURL = "http://off.bike/"
+languageCode = "en-us"
+title = "OFF BIKE"
+theme = "hugograyscale"
+
+[params]
+    description = "A Podcast About Where Cycling Takes Us "
+    author = "RunningStream"
+
